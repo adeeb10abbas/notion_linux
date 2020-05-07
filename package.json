@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "notion_linux",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimalist Linux client of Notion",
   "main": "main.js",
   "scripts": {
     "start": "electron ."

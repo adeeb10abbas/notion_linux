@@ -10,7 +10,7 @@ function createWindow () {
       preload: path.join(__dirname, 'preload.js')
     }
   })
-  mainWindow.loadURL('https://www.notion.so/')
+  mainWindow.loadURL('https://www.notion.so/login')
 }
 app.whenReady().then(createWindow)
 // will handle APIs
